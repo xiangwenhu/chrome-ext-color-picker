@@ -1,0 +1,21 @@
+.App {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: left;
+  height: 100%;
+  padding: 10px;
+  font-size: 30px;
+}
+
+.color-rect{
+  height: 20px;
+  width: 100px;
+  border: solid 1px #000;
+}
+.start-button{
+  padding: 6px;
+  font-size: 22px;
+}
